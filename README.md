@@ -30,18 +30,18 @@ Here's the directory structure of this repository:
 
 Feel free to navigate through the folders and explore my Ruby solutions!
 
-##👓 Usage 
+## 👓 Usage 
 
 To review my homework assignments, follow these steps:
 
 1. Navigate to the folder of the assignment you'd like to explore (e.g., `/task1`).
 2. Open the Ruby file(s) inside to examine my code and solutions.
 
-##🤝 Contributing 
+## 🤝 Contributing 
 
 This repository is a personal showcase of my work, so contributions from others are not expected. However, I appreciate feedback and suggestions to improve my code and documentation.
 
-##📮 Contact 
+## 📮 Contact 
 
 If you have any questions or would like to discuss my homework submissions, please feel free to contact me via email at [youssefmagdyanwar@yandex.ru] or simply on Telegram [@lilvoidx]. I'm always eager to engage in constructive discussions.
 
