@@ -10,23 +10,16 @@ Each assignment is meticulously documented and structured to demonstrate my unde
 
 Here's the directory structure of this repository:
 
-
-
-📂 RoR-HomeTasks
-│
-├── 📁 Hw-01
-│ ├── 📄 task1.rb
-│ ├── 📄 task2.rb
-│ └── ...
-│
-├── 📁 Hw-02
-│ ├── 📄 task1.rb
-│ ├── 📄 task2.rb
-│ └── ...
-│
-└── ...
-
-
+- 📂 RoR-HomeTasks/
+  - 📁 Hw-01/
+    - 📄 task1.rb
+    - 📄 task2.rb
+    - ...
+  - 📁 Hw-02/
+    - 📄 task1.rb
+    - 📄 task2.rb
+    - ...
+  - ...
 
 Feel free to navigate through the folders and explore my Ruby solutions!
 
