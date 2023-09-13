@@ -6,7 +6,7 @@ Welcome to my organized Ruby homework repository for [Kazan Federal University/S
 
 Each assignment is meticulously documented and structured to demonstrate my understanding of the course material. The repository is organized into separate folders, each representing a different assignment.
 
-##📂 Directory Structure 
+## 📂 Directory Structure 
 
 Here's the directory structure of this repository:
 
