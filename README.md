@@ -12,7 +12,7 @@ Here's the directory structure of this repository:
 
 - 📂 RoR-HomeTasks/
   - 📁 Hw-01/
-    - :Ruby: task1.rb
+    - 📄 task1.rb
     - 📄 task2.rb
     - ...
   - 📁 Hw-02/
