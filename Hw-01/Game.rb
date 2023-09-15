@@ -5,7 +5,6 @@ def computer_choice
   CHOICES.sample
 end
 
-
 def determine_winner(user_choice, computer_choice)
   if user_choice == computer_choice
     "It's a tie!"
