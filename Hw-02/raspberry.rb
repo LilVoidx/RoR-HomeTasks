@@ -1,5 +1,5 @@
 class Raspberry
-  attr_reader :state
+  attr_reader :state, :index
 
   STATES = %w[Absent Flowering Green Red].freeze
 
